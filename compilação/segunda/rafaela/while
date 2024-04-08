@@ -1,0 +1,15 @@
+cont=1;
+while(cont<=5){
+    System.out.println(cont);
+    cont++;
+}
+
+cont=cont+1
+
+ou
+
+cont+=1
+
+rafa
+0123
+n+1
